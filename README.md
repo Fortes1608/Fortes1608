@@ -1,49 +1,48 @@
 <h1 align="center">Hi, I'm Lorenzo Fortes 👋</h1>
 
 <p align="center">
-  Biomedical Informatics student from Brazil, passionate about building clean and user-focused mobile applications.
+  🎓 Biomedical Informatics student from Brazil <br>
+  📱 Passionate about mobile app development, especially with Swift (UIKit)
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Biomedical Informatics student  
-- 💻 Focused on mobile development using **Swift (UIKit)**  
-- 🚀 Also familiar with **Flutter**, **Python**, and **Java**  
-- 📍 Based in Brazil  
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/lorenzo-fortes-573666174/)
+- 💻 Focused on iOS development with **Swift (UIKit)**
+- 🛠 Also familiar with **Flutter**, **Python**, and **Java**
+- 📍 Based in Brazil
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzo-fortes-573666174/)
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-blue?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_logo_black.svg" title="UIKit" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-Here are some of the projects I’ve been working on:
-
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**Task Timer App**](https://github.com/Fortes1608/MaDots) | A productivity app with 15-minute timers for task categories. | Swift (UIKit) |
-| [**Well-being Tracker**](https://github.com/YBraga35/aplicativo-bem-estar) | Tracks habits and mental health trends visually. | Flutter + Firebase |
+| [**MaDots**](https://github.com/Fortes1608/MaDots) | A minimalist productivity app where users select task categories, set timers, and receive visual feedback via colored "dots" representing completed focus sessions. | Swift (UIKit) |
+| [**Bem-Estar App**](https://github.com/YBraga35/aplicativo-bem-estar) | A habit tracking and well-being monitoring app that allows users to manage and visualize their routines. | Flutter + Firebase |
 
+---
 
-### 📈 GitHub Stats
+### 📊 Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fortes1608&show_icons=true&theme=default&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fortes1608&theme=default&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fortes1608&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fortes1608&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fortes1608&theme=default" />
 </p>
 
 ---
