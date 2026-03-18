@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 💻 Focused on iOS development with **Swift (UIKit)**
+- 💻 Focused on iOS development with **Swift (SwiftUI)**
 - 🛠 Also familiar with **Flutter**, **Python**, and **Java**
 - 📍 Based in Brazil
 - 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzo-fortes-573666174/)
