@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Biomedical Informatics student from Brazil <br>
-  📱 Passionate about mobile app development, especially with Swift (UIKit)
+  📱 Passionate about mobile app development, especially with Swift (SwiftUI)
 </p>
 
 ---
