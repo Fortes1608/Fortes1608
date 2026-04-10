@@ -27,6 +27,8 @@
 
 ### 📂 Featured Projects
 
+My Portfolio - https://lorenzo-fortes-portfolio.vercel.app
+
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**MaDots**](https://github.com/Fortes1608/MaDots) | A minimalist productivity app where users select task categories, set timers, and receive visual feedback via colored "dots" representing completed focus sessions. | Swift (UIKit) |
