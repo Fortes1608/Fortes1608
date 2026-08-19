@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Biomedical Informatics student from Brazil <br>
-  📱 iOS Developer focused on Swift, architecture, games and cloud integration
+  📱 iOS Developer focused on SwiftUI
 </p>
 
 ---
